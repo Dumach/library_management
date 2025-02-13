@@ -1,9 +1,9 @@
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "Alex Nag"
+app_publisher = "Alex Nagy"
 app_description = "Library Management App"
 app_email = "nagyalex003@gmail.com"
-app_license = "mit"
+app_license = "gpl-3.0"
 
 # Apps
 # ------------------

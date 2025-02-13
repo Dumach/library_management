@@ -1,4 +1,4 @@
-# Copyright (c) 2025, Alex Nag and Contributors
+# Copyright (c) 2025, Alex Nagy and Contributors
 # See license.txt
 
 # import frappe

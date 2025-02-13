@@ -1,7 +1,7 @@
 [project]
 name = "library_management"
 authors = [
-    { name = "Alex Nag", email = "nagyalex003@gmail.com"}
+    { name = "Alex Nagy", email = "nagyalex003@gmail.com"}
 ]
 description = "Library Management App"
 requires-python = ">=3.10"
