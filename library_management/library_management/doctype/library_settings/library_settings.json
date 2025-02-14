@@ -21,14 +21,14 @@
   },
   {
    "fieldname": "max_articles",
-   "fieldtype": "Image",
+   "fieldtype": "Int",
    "label": "Maximum Number of  Issued Articles"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2025-02-13 12:01:25.636499",
+ "modified": "2025-02-13 16:50:25.888306",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Library Settings",

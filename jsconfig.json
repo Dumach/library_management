@@ -1,0 +1,21 @@
+// from https://stackoverflow.com/questions/70409235/vscode-errors-for-frappe-framework-and-erpnext-javascript-jinja
+
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "jsx": "preserve",
+    "checkJs": true,
+    "experimentalDecorators": true,
+    "allowImportingTsExtensions": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,    
+  },
+  "exclude": [
+    "node_modules",
+    "**/node_modules/*"
+  ],
+  "include": [
+    "**/*.*"
+  ]
+}

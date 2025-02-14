@@ -1,0 +1,8 @@
+<div style="display:flex;flex-direction:col;margin-top:4rem;align-items:center;">
+	<img src="{{doc.image}}" alt="{{doc.title or doc.name}}" style="width:120px; max-height:200px;">
+	<div style="margin-left: 2rem;">
+		<a href="/{{ doc.route |e }}">{{ (doc.title or doc.name) |e }}</a>
+		<p>{{ doc.author }}</p>
+	</div>
+</div>
+<!-- this is a sample default list template -->
