@@ -4,13 +4,16 @@ app_publisher = "Alex Nagy"
 app_description = "Library Management App"
 app_email = "nagyalex003@gmail.com"
 app_license = "gpl-3.0"
+app_icon = "octicon octicon-file-directory"
+app_color = "#E95420"
+
 
 # Apps
 # ------------------
 
 # required_apps = []
 
-# Each item in the list will be shown as an app in the apps page
+# # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
 # 		"name": "library_management",
@@ -244,4 +247,3 @@ app_license = "gpl-3.0"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-

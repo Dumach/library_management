@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2025-02-15 16:27:12.074751",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2025-02-15 16:27:23.405727",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "library-guest-page",
+ "owner": "Administrator",
+ "page_name": "library-guest-page",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Library Guest Page"
+}
